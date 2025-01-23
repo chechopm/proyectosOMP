@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\sumaArreglosParalelo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A095B01-51F6-4C8A-A0B0-2C961E32F55C}|sumaArreglosParalelo.vcxproj|C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\sumaArreglosParalelo\\sumaArreglosParalelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A095B01-51F6-4C8A-A0B0-2C961E32F55C}|sumaArreglosParalelo.vcxproj|solutionrelative:sumaArreglosParalelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sumaArreglosParalelo.cpp",
+              "DocumentMoniker": "C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\sumaArreglosParalelo\\sumaArreglosParalelo.cpp",
+              "RelativeDocumentMoniker": "sumaArreglosParalelo.cpp",
+              "ToolTip": "C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\sumaArreglosParalelo\\sumaArreglosParalelo.cpp",
+              "RelativeToolTip": "sumaArreglosParalelo.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T01:49:12.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
