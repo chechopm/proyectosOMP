@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\pruebaOMP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13F85FE-FD23-47C5-A642-AFA4FF2601E8}|pruebaOMP.vcxproj|C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\pruebaOMP\\pruebaOMP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E13F85FE-FD23-47C5-A642-AFA4FF2601E8}|pruebaOMP.vcxproj|solutionrelative:pruebaOMP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pruebaOMP.cpp",
+              "DocumentMoniker": "C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\pruebaOMP\\pruebaOMP.cpp",
+              "RelativeDocumentMoniker": "pruebaOMP.cpp",
+              "ToolTip": "C:\\Users\\CHECH\\OneDrive\\Documentos\\TEC\\Computo en la Nube\\proyectosOMP\\pruebaOMP\\pruebaOMP.cpp",
+              "RelativeToolTip": "pruebaOMP.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-22T22:56:40.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
