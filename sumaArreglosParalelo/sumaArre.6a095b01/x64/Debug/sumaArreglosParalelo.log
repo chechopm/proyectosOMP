@@ -1,4 +1,5 @@
 ﻿  sumaArreglosParalelo.cpp
-C:\Users\CHECH\OneDrive\Documentos\TEC\Computo en la Nube\proyectosOMP\sumaArreglosParalelo\sumaArreglosParalelo.cpp(26,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\CHECH\OneDrive\Documentos\TEC\Computo en la Nube\proyectosOMP\sumaArreglosParalelo\sumaArreglosParalelo.cpp(27,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CHECH\OneDrive\Documentos\TEC\Computo en la Nube\proyectosOMP\sumaArreglosParalelo\sumaArreglosParalelo.cpp(35,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\CHECH\OneDrive\Documentos\TEC\Computo en la Nube\proyectosOMP\sumaArreglosParalelo\sumaArreglosParalelo.cpp(36,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\CHECH\OneDrive\Documentos\TEC\Computo en la Nube\proyectosOMP\sumaArreglosParalelo\sumaArreglosParalelo.cpp(31,9): warning C4101: 'i': variable local sin referencia
   sumaArreglosParalelo.vcxproj -> C:\Users\CHECH\OneDrive\Documentos\TEC\Computo en la Nube\proyectosOMP\sumaArreglosParalelo\x64\Debug\sumaArreglosParalelo.exe
